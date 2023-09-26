@@ -1,0 +1,31 @@
+#p1{
+    font-size: 25px;
+    background-color: rgb(210, 93, 93);
+    height: 30px;
+}
+
+#p2{
+    background-color: white;
+    color:blue;
+    font-size: 40px;
+    height:45px;
+    text-decoration-style: solid;
+}
+
+#p3{
+    font-size: 35px;
+    background-color: rgb(210, 93, 93);
+    height: 40px;
+}
+#p4{
+    font-weight: bold;
+    font-size: 35px;
+    color:black;
+    background-color: rgb(93, 210, 101);
+    height: 40px;
+}
+#p5{
+    font-size: 25px;
+    background-color: rgb(210, 93, 93);
+    height: 30px;
+}
